@@ -1,4 +1,4 @@
-#!/home/nzangi/Videos/Intern-Project/venv/bin/python3
+#!/home/nzangi/Videos/Intern-Project/Backend/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
