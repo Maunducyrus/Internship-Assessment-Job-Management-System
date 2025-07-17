@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Job Management Backend - Django API
 
 A Django REST API backend for managing job listings with PostgreSQL database.
@@ -172,3 +173,5 @@ The backend is configured to accept requests from:
 - `http://localhost:5173` (Vite)
 
 Update `CORS_ALLOWED_ORIGINS` in `settings.py` if your frontend runs on different ports.
+
+
