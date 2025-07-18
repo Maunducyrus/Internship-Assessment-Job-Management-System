@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Job Management Backend - Django API
 
 A Django REST API backend for managing job listings with PostgreSQL database.
