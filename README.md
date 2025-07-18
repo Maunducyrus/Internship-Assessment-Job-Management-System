@@ -168,7 +168,6 @@ You can test the API using:
 ## CORS Configuration
 
 The backend is configured to accept requests from:
-- `http://localhost:3000` (Create React App)
 - `http://localhost:5173` (Vite)
 
 Update `CORS_ALLOWED_ORIGINS` in `settings.py` if your frontend runs on different ports.
