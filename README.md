@@ -1,5 +1,7 @@
 # Job Management Backend - Django API
 
+![Job management system](/project%20screenshots/all-jobs.png)
+
 A Django REST API backend for managing job listings with PostgreSQL database.
 
 ## Features
