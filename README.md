@@ -41,17 +41,12 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Create environment file:
+2. Create environment file:
 ```bash
 cp .env.example .env
 ```
 
-4. Update `.env` with your database credentials:
+3. Update `.env` with your database credentials:
 ```
 DB_NAME=job_management_db
 DB_USER=your_username
